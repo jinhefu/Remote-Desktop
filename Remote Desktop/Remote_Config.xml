@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <factory name="区域1">
+    <equipmenttype name="类别1">
+      <ipconfig pcname="A主机1" ipaddress="10.79.46.15" username="admin" password="Admin123" port="3389" />
+      <ipconfig pcname="A主机2" ipaddress="10.79.46.17" username="admin" password="Admin123" port="3389" />
+      <ipconfig pcname="A主机3" ipaddress="10.79.46.18" username="admin" password="Admin123" port="3389" />
+      <ipconfig pcname="A主机4" ipaddress="10.79.42.16" username="admin" password="Admin123" port="3389" />
+    </equipmenttype>
+    <equipmenttype name="类别2">
+      <ipconfig pcname="B主机1" ipaddress="10.79.25.18" username="admin" password="Admin123" port="3389" />
+    </equipmenttype>
+    <equipmenttype name="类别3">
+      <ipconfig pcname="C主机2" ipaddress="10.79.242.24" username="admin" password="Admin123" port="3389" />
+      <ipconfig pcname="C主机3" ipaddress="10.79.241.23" username="admin" password="Admin123" port="3389" />
+    </equipmenttype>
+  </factory>
+  <factory name="服务器">
+    <equipmenttype name="Server">
+      <ipconfig pcname="A服务器1" ipaddress="10.79.4.1" username="administrator" password="P@ssw0rd" port="3389" />
+      <ipconfig pcname="A服务器2" ipaddress="10.79.4.2" username="administrator" password="P@ssw0rd" port="3389" />
+    </equipmenttype>
+  </factory>
+</configuration>

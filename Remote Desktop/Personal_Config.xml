@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <factory name="Personal">
+    <equipmenttype name="云桌面">
+	  <ipconfig pcname="办公1" ipaddress="10.69.4.1" username="administrator" password="P@ssw0rd" port="3389" />
+    </equipmenttype>
+	<equipmenttype name="物理机">
+	  <ipconfig pcname="主机1" ipaddress="10.69.4.3" username="administrator" password="P@ssw0rd" port="3389" />
+    </equipmenttype>
+  </factory>
+</configuration>
