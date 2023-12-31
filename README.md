@@ -19,7 +19,7 @@
 
 应用提供xml配置文件注册远程主机的连接信息：
 - Remote_Config.xml：通用配置，可配合FTP服务实现多人配置共享；
-- Personal_Config.xml：个人配置，本地于保存，不共享；
+- Personal_Config.xml：个人配置（默认），保存于本地，不共享；
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
