@@ -172,9 +172,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(88, 59);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(326, 17);
+            this.label3.Size = new System.Drawing.Size(323, 17);
             this.label3.TabIndex = 6;
-            this.label3.Text = "Tips:请输入计算机名，such as 9APPH01 or IP Address。";
+            this.label3.Text = "Tips: 请输入计算机名，such as PC Name or IP Address.";
             // 
             // pan_ButtomButton
             // 

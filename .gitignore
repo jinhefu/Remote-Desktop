@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/packages
+/Remote Desktop/bin/Debug
+/Remote Desktop/obj/Debug
